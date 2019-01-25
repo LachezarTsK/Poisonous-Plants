@@ -51,7 +51,7 @@ public class Solution {
 	 * two groups.
 	 * 
 	 * 3. Repeat steps one and two until the queue contains only one group. The
-	 * number of loops that take to go through steps one and two is equal to the
+	 * number of loops it takes to go through steps one and two is equal to the
 	 * minimum number of days.
 	 * 
 	 * Example: Initial groups [6,5], [8], [12,9,3].
